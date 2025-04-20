@@ -51,6 +51,9 @@ python app.py
 ## 🔢 Dataset
 [Kaggle Dataset Link](https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants)  
 
+## 🔢 Pre-trained model by me
+[Model](https://drive.google.com/)  (to-do next commit)
+
 ## 🤝 Contributing
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
